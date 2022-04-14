@@ -8,6 +8,14 @@ header{
     text-align: center;
 }
 
+div{
+    text-align: center;
+}
+
+div#msg{
+    padding-bottom: 25px;
+}
+
 section{
     background-color: white;
     border-radius: 10px;
